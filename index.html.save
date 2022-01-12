@@ -23,14 +23,14 @@
 			<img src="img/1.jpg" alt="Первый слайд">
 			<div class="slideText">Стильно, Быстро,
 			Надежно</div>
-			<div class="slideText_one">Более 15 лет на рынке</div>
+			<div class="slideText_one">Больно на рынке</div>
 		</div>
 
 		<div class="item">
 			<img src="img/1.jpg" alt="Второй слайд">
 			<div class="slideText">Стильно, Быстро,
 			Надежно</div>
-			<div class="slideText_one">Боле 0 let na rinkeрынке</div>
+			<div class="slideText_one">Более 10 лет на рынке</div>
 		</div>
 		<div class="slider-dots">
 			<span class="slider-dots_item" onclick="currentSlide(1)"></span> 
